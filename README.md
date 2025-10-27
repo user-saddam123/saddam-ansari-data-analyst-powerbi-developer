@@ -6,7 +6,7 @@
 
 **Saddam Ansari** is a passionate **Data Analyst and Power BI Developer** from *Siwan, Bihar (India)*, who believes that data has the power to tell stories, solve problems, and create impact.  
 
-Coming from a **non-technical background**, Saddam completed his **Bachelor of Science** from *Nalanda Open University*. His journey into analytics began with curiosity — an endless desire to explore, question, and understand patterns in numbers. What started as basic Excel work soon evolved into a deep passion for **data analytics**, **visualization**, and **business intelligence**.  
+Coming from a **non-technical background**, Saddam completed his **Bachelor of Science** from *Nalanda Open University*. His journey into analytics began with curiosity an endless desire to explore, question, and understand patterns in numbers. What started as basic Excel work soon evolved into a deep passion for **data analytics**, **visualization**, and **business intelligence**.  
 
 Today, Saddam has built a strong identity as a **Power BI Developer**, **Data Storyteller**, and **Business Intelligence Enthusiast**, dedicated to transforming raw data into insights that inspire real-world action.
 
@@ -18,7 +18,7 @@ Saddam currently works at **Lumel (Inforiver Analytics+)**, a global **product d
 
 At Lumel, he serves as a **Power BI Developer Trainee**, where his main focus is on creating interactive demo reports, writing product documentation, producing blogs and “how-to” tutorials, and collaborating with cross-functional teams like **engineering, product, QA, and marketing**.  
 
-Through this role, Saddam contributes directly to Lumel’s mission — helping users get more out of Power BI through intuitive visuals and data-driven product experiences.
+Through this role, Saddam contributes directly to Lumel’s mission helping users get more out of Power BI through intuitive visuals and data-driven product experiences.
 
 ---
 
@@ -38,7 +38,7 @@ This blend of technical skill, storytelling, and teamwork has made him a valuabl
 
 Saddam’s journey began from a place of curiosity and self-learning. Coming from a science background, he was fascinated by how numbers could reveal patterns about people, markets, and behaviors.  
 
-Starting with **Excel**, he learned how to clean and organize data. Then he moved on to **SQL** for querying and **Power BI** for building dynamic dashboards. Over time, his skills expanded into **data modeling**, **DAX**, and **data storytelling** — allowing him to bridge the gap between data and business impact.  
+Starting with **Excel**, he learned how to clean and organize data. Then he moved on to **SQL** for querying and **Power BI** for building dynamic dashboards. Over time, his skills expanded into **data modeling**, **DAX**, and **data storytelling** allowing him to bridge the gap between data and business impact.  
 
 His continuous learning attitude helped him transition from a non-technical background to becoming a recognized **data professional** with strong analytical and visualization capabilities.
 
@@ -55,7 +55,7 @@ He is skilled in:
 - **Interactive dashboard design** and **data visualization storytelling**  
 - **Documentation and content writing** for technical education  
 
-His approach is a balance of **technical precision** and **creative presentation** — using design thinking to make analytics more engaging and understandable.
+His approach is a balance of **technical precision** and **creative presentation** using design thinking to make analytics more engaging and understandable.
 
 ---
 
@@ -80,7 +80,7 @@ Some of Saddam’s most notable work includes:
 - **Maven Coffee Market Strategy** – A data-driven market entry strategy that projected 115% growth through customer preference analysis.  
 - **Mitron Bank Credit Card Launch Dashboard** – A financial analytics dashboard that improved marketing decisions by 80%.  
 
-His project portfolio demonstrates his ability to combine **data accuracy**, **visual storytelling**, and **business intelligence** — turning raw datasets into real business insights.
+His project portfolio demonstrates his ability to combine **data accuracy**, **visual storytelling**, and **business intelligence** turning raw datasets into real business insights.
 
 ---
 
@@ -110,3 +110,14 @@ If you want to collaborate, learn, or just exchange ideas about Power BI, data s
 ---
 
 ⭐ *“Every dataset has a story — my goal is to help you see it.”*
+
+
+---
+
+### 🔖 **Hashtags & Keywords**
+
+#PowerBI #DataAnalytics #DataAnalyst #BusinessIntelligence #PowerBIDeveloper  
+#DashboardDesign #DataVisualization #SQL #Excel #DAX #DataStorytelling  
+#AnalyticsPortfolio #PowerBIDashboard #DataDriven #Insights #BIProjects  
+#SaddamAnsari #InforiverAnalytics #Lumel #MicrosoftPowerBI #DataCommunity
+
