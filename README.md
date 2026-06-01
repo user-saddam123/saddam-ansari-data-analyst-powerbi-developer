@@ -259,13 +259,13 @@ His philosophy is simple:
 
 Whether you're a recruiter, hiring manager, business leader, fellow analyst, or someone interested in analytics, Saddam is always open to meaningful conversations and collaboration opportunities.
 
-📧 Email: **sa4883871@gmail.com**
+📧 Email: [sa4883871@gmail.com](mailto:sa4883871@gmail.com)
 
-🔗 LinkedIn: **linkedin.com/in/saddam-ansari**
+🔗 LinkedIn: [linkedin.com/in/saddam-ansari](https://linkedin.com/in/saddam-ansari)
 
-💻 GitHub: **github.com/user-saddam123**
+💻 GitHub: [github.com/user-saddam123](https://github.com/user-saddam123)
 
-📊 Portfolio: **NovyPro – Saddam Ansari**
+📊 Portfolio: [NovyPro – Saddam Ansari](https://www.novypro.com/profile_projects/saddamansari)
 
 ---
 
