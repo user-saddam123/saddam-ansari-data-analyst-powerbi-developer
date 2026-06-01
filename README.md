@@ -11,7 +11,7 @@ He specializes in **Power BI, SQL, DAX, Data Modeling, Power Query, Microsoft Fa
 Coming from a non-technical background, Saddam's journey into analytics is a story of curiosity, self-learning, persistence, and continuous improvement. Through hands-on projects, industry challenges, certifications, and professional experience, he has built a strong foundation in modern analytics and reporting technologies.
 
 Today, Saddam is recognized for his expertise in **Power BI Development, Business Intelligence, Dashboard Design, Data Storytelling, and Analytics Solutions**, while actively contributing to the analytics community through mentoring, content creation, and knowledge sharing.
-<img width="1086" height="1448" alt="saddam-ansari-power-bi-developer-data-analyst-expert" src="https://github.com/user-attachments/assets/25c13bda-8518-45e8-b4b4-6f0b9a2e9399" />
+<img width="271" height="362" alt="saddam-ansari-power-bi-developer-data-analyst-expert" src="https://github.com/user-attachments/assets/25c13bda-8518-45e8-b4b4-6f0b9a2e9399" />
 
 ---
 
